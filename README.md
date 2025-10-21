@@ -102,17 +102,8 @@ The design phase focuses on translating the identified problem into a **function
 - Capture accelerometer and gyroscope readings.  
 - Print all data to the serial monitor for real-time observation.
 
-```
-## Tech Stack
-| Category               | Technologies                         |
-| ---------------------- | ------------------------------------ |
-| **Hardware**           | Arduino Mega, Flex Sensors, MPU-6050 |
-| **Programming**        | Python, C++                          |
-| **Machine Learning**   | TensorFlow, LSTM                     |
-| **Data Handling**      | Pandas, NumPy                        |
-| **UI / Visualization** | HTML/CSS                             |
 
-## Installation & Setup
+## ⚡ Installation & Setup
 
 ### 1. Clone the Repository
 ```bash
@@ -139,7 +130,7 @@ python app.py
 
 
 ## 🤝 Contributors
+- [Urav Dalal](https://github.com/Urav-Dalal)
 - [Mahek Upadhye](https://github.com/mahekupadhye31)
 - [Aasmi Thadhani](https://github.com/aasmithadhani)
-- [Urav Dalal](https://github.com/Urav-Dalal)
 - Shreya Shah
