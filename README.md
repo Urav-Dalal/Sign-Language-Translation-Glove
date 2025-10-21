@@ -85,9 +85,9 @@ The design phase focuses on translating the identified problem into a **function
   <em>Fig 5. User Interface</em>
 </p>
 
-## ⚙️ Implementation
+## Implementation
 
-### 🔧 Algorithm Overview
+### Algorithm Overview
 
 #### Initialization
 - Define analog pins for flex sensors (A0–A4).  
@@ -103,7 +103,7 @@ The design phase focuses on translating the identified problem into a **function
 - Print all data to the serial monitor for real-time observation.
 
 ```
-## 🛠️ Tech Stack
+## Tech Stack
 | Category               | Technologies                         |
 | ---------------------- | ------------------------------------ |
 | **Hardware**           | Arduino Mega, Flex Sensors, MPU-6050 |
