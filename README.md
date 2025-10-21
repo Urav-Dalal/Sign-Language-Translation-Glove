@@ -107,8 +107,7 @@ The design phase focuses on translating the identified problem into a **function
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/username/gesture-vocalizer.git
-cd gesture-vocalizer
+git clone https://github.com/Urav-Dalal/Sign-Language-Translation-Glove.git
 ```
 ### 2. Install Python Dependencies
 ```bash
