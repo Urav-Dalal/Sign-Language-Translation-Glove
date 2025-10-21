@@ -102,7 +102,6 @@ The design phase focuses on translating the identified problem into a **function
 - Capture accelerometer and gyroscope readings.  
 - Print all data to the serial monitor for real-time observation.
 
-}
 ```
 ## 🛠️ Tech Stack
 | Category               | Technologies                         |
