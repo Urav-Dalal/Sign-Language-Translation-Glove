@@ -103,7 +103,7 @@ The design phase focuses on translating the identified problem into a **function
 - Print all data to the serial monitor for real-time observation.
 
 
-## ⚡ Installation & Setup
+## Installation & Setup
 
 ### 1. Clone the Repository
 ```bash
@@ -124,12 +124,12 @@ python app.py
 
 ```
 
-## 🏆 Achievements
+## Achievements
 - Our research was **published** in the *Journal of Electrical Systems*, Vol. 20, No. 10s (2024).  
 - We obtained a **copyright** for our novel dataset.
 
 
-## 🤝 Contributors
+## Contributors
 - [Urav Dalal](https://github.com/Urav-Dalal)
 - [Mahek Upadhye](https://github.com/mahekupadhye31)
 - [Aasmi Thadhani](https://github.com/aasmithadhani)
